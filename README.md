@@ -1,2 +1,2 @@
 # Predictive-Stocks
-A Repository For Attempts To Predict The Stock Market, And Maybe Automate The Buying And Selling Of Stock.
+An initial attempt to predict whether a stock's max value is going to be higher or lower the next day using KNN
